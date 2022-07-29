@@ -1,2 +1,3 @@
-# machine-learing
-a code that takes a data set and supervisingly predicts if you have cardiovascular diseas or not
+# ML based cardiovascular diseas diagnosis
+This is a supervised machine learning model that predicted cardiovascular diseas based on patioents data.
+dataset : https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
